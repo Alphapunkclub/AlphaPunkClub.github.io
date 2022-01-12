@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc231e98F4b210E0a6c020420031f53dA27688c22",
+  "SCAN_LINK": "https://polygonscan.com/token/0xc231e98F4b210E0a6c020420031f53dA27688c22",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Alpha Punk Club",
+  "SYMBOL": "APC",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/alphapunkclub",
+  "SHOW_BACKGROUND": false
+}
